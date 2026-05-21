@@ -1,7 +1,7 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "My Graduate School Essay"
+description: "a personal manifesto"
+pubDate: "May 18 2026"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
